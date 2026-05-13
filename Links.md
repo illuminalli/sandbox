@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 01:26 IR
+- 🎬 [آموزش_تایپ_ده‌_انگشتی.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%AA%D8%A7%DB%8C%D9%BE_%D8%AF%D9%87%E2%80%8C_%D8%A7%D9%86%DA%AF%D8%B4%D8%AA%DB%8C.mp4) `22.1MB`
+
+---
+
+
 ### 📅 2026-05-14 01:24 IR
 - 🎬 [مزه‌_گرفتن_از_توتون_پیپ_و_تنباکو_-_قسمت_اول__نکات_پیش_از_اسموک_و_کشیدن.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D9%85%D8%B2%D9%87%E2%80%8C_%DA%AF%D8%B1%D9%81%D8%AA%D9%86_%D8%A7%D8%B2_%D8%AA%D9%88%D8%AA%D9%88%D9%86_%D9%BE%DB%8C%D9%BE_%D9%88_%D8%AA%D9%86%D8%A8%D8%A7%DA%A9%D9%88_-_%D9%82%D8%B3%D9%85%D8%AA_%D8%A7%D9%88%D9%84__%D9%86%DA%A9%D8%A7%D8%AA_%D9%BE%DB%8C%D8%B4_%D8%A7%D8%B2_%D8%A7%D8%B3%D9%85%D9%88%DA%A9_%D9%88_%DA%A9%D8%B4%DB%8C%D8%AF%D9%86.mp4) `59.5MB`
 
