@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 01:28 IR
+- 🎬 [Every_Chess_Tip_-_Explained!(in_stages).mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/Every_Chess_Tip_-_Explained%21%28in_stages%29.mp4) `22.2MB`
+
+---
+
+
 ### 📅 2026-05-14 01:27 IR
 - 🎬 [How_to_Speak_So_That_People_Want_to_Listen___Julian_Treasure___TED.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/How_to_Speak_So_That_People_Want_to_Listen___Julian_Treasure___TED.mp4) `17.1MB`
 
