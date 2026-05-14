@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 09:44 IR
+- 🎬 [آموزش_جامع_Docker_-_قسمت_چهارم__کار_با_Docker_Images_و_مدیریت_آن‌ها.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%AC%D8%A7%D9%85%D8%B9_Docker_-_%D9%82%D8%B3%D9%85%D8%AA_%DA%86%D9%87%D8%A7%D8%B1%D9%85__%DA%A9%D8%A7%D8%B1_%D8%A8%D8%A7_Docker_Images_%D9%88_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%D8%A2%D9%86%E2%80%8C%D9%87%D8%A7.mp4) `16.4MB`
+
+- 🎬 [آموزش_صفر_تا_صد_داکر_(Docker)_-_قسمت_پنجم_-_ساخت_و_مدیریت_Container_در_داکر.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%B5%D9%81%D8%B1_%D8%AA%D8%A7_%D8%B5%D8%AF_%D8%AF%D8%A7%DA%A9%D8%B1_%28Docker%29_-_%D9%82%D8%B3%D9%85%D8%AA_%D9%BE%D9%86%D8%AC%D9%85_-_%D8%B3%D8%A7%D8%AE%D8%AA_%D9%88_%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_Container_%D8%AF%D8%B1_%D8%AF%D8%A7%DA%A9%D8%B1.mp4) `30.2MB`
+
+---
+
+
 ### 📅 2026-05-14 01:28 IR
 - 🎬 [Every_Chess_Tip_-_Explained!(in_stages).mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/Every_Chess_Tip_-_Explained%21%28in_stages%29.mp4) `22.2MB`
 
