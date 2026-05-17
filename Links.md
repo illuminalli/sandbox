@@ -3,6 +3,12 @@
 
 
 ### 📅 2026-05-17 09:01 IR
+- 🎬 [دوره_جامع_داکر__مدیریت_مایکروسرویس_ها_با_داکر_کامپوز_-_قسمت_۱۴.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%AF%D9%88%D8%B1%D9%87_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AF%D8%A7%DA%A9%D8%B1__%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%B1%D9%88%DB%8C%D8%B3_%D9%87%D8%A7_%D8%A8%D8%A7_%D8%AF%D8%A7%DA%A9%D8%B1_%DA%A9%D8%A7%D9%85%D9%BE%D9%88%D8%B2_-_%D9%82%D8%B3%D9%85%D8%AA_%DB%B1%DB%B4.mp4) `31.4MB`
+
+---
+
+
+### 📅 2026-05-17 09:01 IR
 - 🎬 [آموزش_جامع_Docker__قسمت_سیزدهم__آشنایی_با_Docker_compose.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%AC%D8%A7%D9%85%D8%B9_Docker__%D9%82%D8%B3%D9%85%D8%AA_%D8%B3%DB%8C%D8%B2%D8%AF%D9%87%D9%85__%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C_%D8%A8%D8%A7_Docker_compose.mp4) `48.6MB`
 
 ---
