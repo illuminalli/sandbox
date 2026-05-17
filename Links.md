@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-17 08:37 IR
+- 🎬 [اتصال_مستقیم_به_سرور_خارج_بدون_نیاز_به_سرور_ایران،_گواهی_یا_هر_واسطه_اضافه._فقط_با.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84_%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85_%D8%A8%D9%87_%D8%B3%D8%B1%D9%88%D8%B1_%D8%AE%D8%A7%D8%B1%D8%AC_%D8%A8%D8%AF%D9%88%D9%86_%D9%86%DB%8C%D8%A7%D8%B2_%D8%A8%D9%87_%D8%B3%D8%B1%D9%88%D8%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%8C_%DA%AF%D9%88%D8%A7%D9%87%DB%8C_%DB%8C%D8%A7_%D9%87%D8%B1_%D9%88%D8%A7%D8%B3%D8%B7%D9%87_%D8%A7%D8%B6%D8%A7%D9%81%D9%87._%D9%81%D9%82%D8%B7_%D8%A8%D8%A7.mp4) `11.2MB`
+
+---
+
+
 ### 📅 2026-05-17 08:34 IR
 - 🎬 [آموزش_Docker_-_قسمت_هشتم__آشنایی_با_Docker_Bind_Mount_و_ساخت_کانتینر_Nginx.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_Docker_-_%D9%82%D8%B3%D9%85%D8%AA_%D9%87%D8%B4%D8%AA%D9%85__%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C_%D8%A8%D8%A7_Docker_Bind_Mount_%D9%88_%D8%B3%D8%A7%D8%AE%D8%AA_%DA%A9%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D8%B1_Nginx.mp4) `20.4MB`
 
