@@ -3,6 +3,12 @@
 
 
 ### 📅 2026-05-17 08:38 IR
+- 🎬 [آموزش_جامع_داکر_-_قسمت_دهم__داکرایز_کردن_اپلیکیشن_Python_با_Dockerfile.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AF%D8%A7%DA%A9%D8%B1_-_%D9%82%D8%B3%D9%85%D8%AA_%D8%AF%D9%87%D9%85__%D8%AF%D8%A7%DA%A9%D8%B1%D8%A7%DB%8C%D8%B2_%DA%A9%D8%B1%D8%AF%D9%86_%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86_Python_%D8%A8%D8%A7_Dockerfile.mp4) `17.3MB`
+
+---
+
+
+### 📅 2026-05-17 08:38 IR
 - 🎬 [آموزش_جامع_Docker_-_قسمت_نهم__Dockefile_چیست؟.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%AC%D8%A7%D9%85%D8%B9_Docker_-_%D9%82%D8%B3%D9%85%D8%AA_%D9%86%D9%87%D9%85__Dockefile_%DA%86%DB%8C%D8%B3%D8%AA%D8%9F.mp4) `35.8MB`
 
 ---
