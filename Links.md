@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-17 09:01 IR
+- 🎬 [آموزش_جامع_Docker__قسمت_سیزدهم__آشنایی_با_Docker_compose.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%AC%D8%A7%D9%85%D8%B9_Docker__%D9%82%D8%B3%D9%85%D8%AA_%D8%B3%DB%8C%D8%B2%D8%AF%D9%87%D9%85__%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C_%D8%A8%D8%A7_Docker_compose.mp4) `48.6MB`
+
+---
+
+
 ### 📅 2026-05-17 08:59 IR
 - 🎬 [آموزش_داکر_-_قسمت_دوازدهم__ارتباط_بین_کانتینرها_با_Network_سفارشی.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%AF%D8%A7%DA%A9%D8%B1_-_%D9%82%D8%B3%D9%85%D8%AA_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%D9%85__%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7_%D8%A8%DB%8C%D9%86_%DA%A9%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D8%B1%D9%87%D8%A7_%D8%A8%D8%A7_Network_%D8%B3%D9%81%D8%A7%D8%B1%D8%B4%DB%8C.mp4) `24.3MB`
 
