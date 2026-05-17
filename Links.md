@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-17 08:32 IR
+- 🎬 [آموزش_Docker_-_قسمت_ششم__ساخت_کانتینر_MySQL_و_اتصال_به_آن_با_Docker_Exec.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_Docker_-_%D9%82%D8%B3%D9%85%D8%AA_%D8%B4%D8%B4%D9%85__%D8%B3%D8%A7%D8%AE%D8%AA_%DA%A9%D8%A7%D9%86%D8%AA%DB%8C%D9%86%D8%B1_MySQL_%D9%88_%D8%A7%D8%AA%D8%B5%D8%A7%D9%84_%D8%A8%D9%87_%D8%A2%D9%86_%D8%A8%D8%A7_Docker_Exec.mp4) `32.1MB`
+
+---
+
+
 ### 📅 2026-05-17 01:46 IR
 - 🎬 [بالاخره_مشخص_از_از_کی_پیداشون_شده___توضیح_پایان_بندی_فصل_3_سریال_From.mp4](https://github.com/illuminalli/illu-repo/raw/main/dl/%D8%A8%D8%A7%D9%84%D8%A7%D8%AE%D8%B1%D9%87_%D9%85%D8%B4%D8%AE%D8%B5_%D8%A7%D8%B2_%D8%A7%D8%B2_%DA%A9%DB%8C_%D9%BE%DB%8C%D8%AF%D8%A7%D8%B4%D9%88%D9%86_%D8%B4%D8%AF%D9%87___%D8%AA%D9%88%D8%B6%DB%8C%D8%AD_%D9%BE%D8%A7%DB%8C%D8%A7%D9%86_%D8%A8%D9%86%D8%AF%DB%8C_%D9%81%D8%B5%D9%84_3_%D8%B3%D8%B1%DB%8C%D8%A7%D9%84_From.mp4) `66.1MB`
 
